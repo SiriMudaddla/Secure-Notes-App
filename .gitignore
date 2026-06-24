@@ -1,2 +1,5 @@
 ﻿secure_notes_v2.json
 keystore.json
+sync_store/
+__pycache__/
+*.pyc
